@@ -18,4 +18,4 @@ If you find any bugs, you can describe them to me and I'll make my best to fix t
 ## Some screenshots:
 
 ![dark version](http://www.mediafire.com/convkey/ea01/jieb3lnco8ra083zg.jpg)
-![light version](http://www.mediafire.com/view/w69d4735o5vii4n/notepad%20%20_2018-02-17_21-50-14.png)
+![light version](http://www.mediafire.com/convkey/6e15/w69d4735o5vii4nzg.jpg)
