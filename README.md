@@ -7,9 +7,15 @@ If you find any bugs, you can describe them to me and I'll make my best to fix t
 
 ## Info
 
-**HOW TO ADD LANGUAGE TO NOTEPAD++:**  
+#### HOW TO ADD LANGUAGE TO NOTEPAD++: 
 1. Enter *Syntax* menu  
 1. Choose *Define your own language...*  
 1. Click on *Import*  
 1. Select downloaded file and click *Open/ Import*  
-1. To select language repeat 1^st step and choose **Minecraft Commands**  
+1. To select language repeat 1st step and choose **Minecraft Commands**  
+
+
+## Some screenshots:
+
+![dark version](http://www.mediafire.com/view/jieb3lnco8ra083/notepad%20%20_2018-02-17_21-48-41.png)
+![light version](http://www.mediafire.com/view/w69d4735o5vii4n/notepad%20%20_2018-02-17_21-50-14.png)
